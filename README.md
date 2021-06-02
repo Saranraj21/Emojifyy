@@ -31,14 +31,14 @@ The images are centered and occupy an equal amount of space. This dataset consis
 
 
 # Facial Emotion Recognition using CNN
-In the below steps will build a convolution neural network architecture and train the model on FER2013 dataset for Emotion recognition from images.
+In the repo steps will build a convolution neural network architecture and train the model on FER2013 dataset for Emotion recognition from images.
 
-Download the dataset from the above link. Extract it in the data folder with separate train and test directories.
+Download the dataset. Extract it in the data folder with separate train and test directories.
 
 # Summary
-In this deep learning project for beginners, we have built a convolution neural network to recognize facial emotions. We have trained our model on the FER2013 dataset. Then we are mapping those emotions with the corresponding emojis or avatars.
+In this deep learning project for beginners, I have built a convolution neural network to recognize facial emotions. I have trained our model on the FER2013 dataset. Then I mapped those emotions with the corresponding emojis or avatars.
 
-Using OpenCV’s haar cascade xml we are getting the bounding box of the faces in the webcam. Then we feed these boxes to the trained model for classification.
+Using OpenCV’s haar cascade xml I got the bounding box of the faces in the webcam. Then I have feed these boxes to the trained model for classification.
 
 DataFlair is committed to provide all the resources to make you a data scientist, which includes detailed tutorials, practicals, use-cases as well as projects with source code.
 
